@@ -34,12 +34,12 @@ p.text-center.main {
   margin-top: 24px;
 }
 a,a:hover,a:focus {
-  color: #f89c27;
+  color: #f89c27!important;
   font-family: palatino;
   font-size: 29px;
   font-style: italic;
   font-weight: 700;
-  text-decoration: underline;
+  text-decoration: underline!important;
 }
 .text-area {
   margin-top: 141px;
