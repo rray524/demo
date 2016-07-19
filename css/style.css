@@ -1,9 +1,9 @@
 .container,.row,.col-sm-12,.col-sm-5 {
-  padding: 0;
-  margin: 0;
+  padding: 0!important;
+  margin: 0!important;
 }
 .container {
-  width: 100%;
+  width: 100%!important;
 }
 section.template {
   background: rgba(0, 0, 0, 0) url("../img/container-template.png") no-repeat scroll 0 0 / 100% 100%;
