@@ -12,7 +12,7 @@ img {
   overflow: hidden;
   padding: 4px;
   width: 100%;
-  min-height: 606px;
+ height: 606px;
 }
 @font-face {
     font-family: Palatino;
