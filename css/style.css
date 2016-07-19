@@ -15,11 +15,11 @@ img {
 }
 @font-face {
     font-family: Palatino;
-    src: url(font/Palatino_Bold.ttf);
+    src: url(../font/Palatino_Bold.ttf);
 }
 @font-face {
     font-family: Helvetica Neue LT Std;
-    src: url(font/HelveticaNeueLTStd-Roman.otf);
+    src: url(../font/HelveticaNeueLTStd-Roman.otf);
 }
 h2.text-center {
   color: #0e253a;
